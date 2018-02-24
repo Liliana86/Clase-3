@@ -1,0 +1,63 @@
+h2{
+            color:floralwhite;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    border-top: 3px dashed white;
+    border-bottom: 3px dotted white;
+        }
+
+        h3{
+            color:burlywood;
+            border:1px solid black;
+            background: red;
+                text-shadow: 2px 2px 2px black;
+        }
+
+        p{
+            color:aliceblue;
+            border:1px solid black;
+            background: red;
+                text-shadow: 2px 2px 2px black;
+        }
+
+body{
+   background-image: url('../assets/bgImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    background-color:dodgerblue;
+    margin: auto
+    border-top:10px;
+}
+
+#circulo{
+    background-color: deeppink;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    background: linear-gradient(to top, #ccffcc 0%, #33ccff 100%)
+}
+
+
+.image{
+    width: 200px;
+}
+
+ul li {
+    color:azure;
+}
+
+#aidi, .clase {
+    color:deeppink;
+    text-shadow: 2px 2px 5px black;
+    line-height: 1rem;
+    font-family:sans-serif;
+}
+
+
+
